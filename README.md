@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview 
-For our fifth data analysis project, we are using data provided to us to analyze ride sharing information for PyBer.  We have expanded the tools available to us to include Matplotlib, which allows us to plot graphs directly in Juypter Notbooks.  We've learned how to manually annotate and adjust the graphs and finally how to use style sheets to change the appearance of the graphs.  Using the data provided, we were able to come up with a summary dataframe which compares the total fares by week for the three types of cities (Rural, Suburban, and Urban), and have been asked to graph the data using a line graph and a pre-chosen stylesheet and using the graph determine what we can draw from the results.
+For our fifth data analysis project, we are using data provided to us to analyze ride sharing information for PyBer.  We have expanded the tools available to us to include Matplotlib, which allows us to plot graphs directly in Juypter Notbooks.  We've learned how to manually annotate and adjust the graphs and finally how to use style sheets to change the appearance of the graphs.  Using the data provided, we were able to come up with a summary dataframe which provides the total rides, drivers, total revenue, and average fare per ride and per driver; broken out by area type (Rural, Suburban, and Urban).  We have additionally been asked to graph our findings of total fares per area type by week for the first four months of 2019 using a line graph and a pre-chosen stylesheet and see we can draw from the results.
 
 ## Resources
 - Data Sources: 
